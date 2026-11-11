@@ -1,0 +1,11 @@
+name: voxstat
+description: "Pure Dart gameplay telemetry bus, metric registry, composable achievements, combo rank tracker & leaderboards."
+version: 0.1.0
+repository: https://github.com/soulwax/voxstat
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
